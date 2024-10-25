@@ -1,0 +1,1550 @@
+html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="google-site-verification" content="LJaydTM8pqtNOmYSKcgBsuhdZ8FLNXXD4s-AMzdKsVk" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="https://www.trec.texas.gov/assets/trec/img/icon/favicon.ico" type="image/vnd.microsoft.icon" />
+    <title>Welcome to TREC</title>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,700,300|Roboto+Slab:400,700|Montserrat'
+          rel='stylesheet' type='text/css'>
+    <style>
+@import url("https://www.trec.texas.gov/modules/system/system.base.css?slgluz");
+</style>
+<style>
+@import url("https://www.trec.texas.gov/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?slgluz");
+@import url("https://www.trec.texas.gov/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?slgluz");
+@import url("https://www.trec.texas.gov/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.datepicker.min.css?slgluz");
+@import url("https://www.trec.texas.gov/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.slider.min.css?slgluz");
+</style>
+<style media="screen">
+@import url("https://www.trec.texas.gov/sites/all/libraries/jquery-ui-timepicker/jquery-ui-timepicker-addon.css?slgluz");
+</style>
+<style>
+@import url("https://www.trec.texas.gov/sites/all/modules/custom/agency_calendar/agency_calendar.css?slgluz");
+@import url("https://www.trec.texas.gov/sites/all/modules/calendar/css/calendar_multiday.css?slgluz");
+@import url("https://www.trec.texas.gov/sites/all/modules/ckeditor_accordion/css/ckeditor-accordion.css?slgluz");
+@import url("https://www.trec.texas.gov/sites/all/modules/date/date_api/date.css?slgluz");
+@import url("https://www.trec.texas.gov/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?slgluz");
+@import url("https://www.trec.texas.gov/modules/field/theme/field.css?slgluz");
+@import url("https://www.trec.texas.gov/modules/node/node.css?slgluz");
+@import url("https://www.trec.texas.gov/sites/all/modules/custom/pdf_listing/css/pdf_listing.css?slgluz");
+@import url("https://www.trec.texas.gov/sites/all/modules/custom/representatives/representatives.css?slgluz");
+@import url("https://www.trec.texas.gov/sites/all/modules/views/css/views.css?slgluz");
+@import url("https://www.trec.texas.gov/sites/all/modules/ckeditor/css/ckeditor.css?slgluz");
+</style>
+<style>
+@import url("https://www.trec.texas.gov/sites/all/modules/ctools/css/ctools.css?slgluz");
+</style>
+<style>
+@import url("https://www.trec.texas.gov/sites/all/themes/trec/css/bootstrap.css?slgluz");
+@import url("https://www.trec.texas.gov/sites/all/themes/trec/css/style.css?slgluz");
+</style>
+    <!-- HTML5 element support for IE6-8 -->
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="https://www.trec.texas.gov/sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script src="https://www.trec.texas.gov/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.trec.texas.gov/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.trec.texas.gov/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.trec.texas.gov/misc/drupal.js?slgluz"></script>
+<script src="https://www.trec.texas.gov/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script src="https://www.trec.texas.gov/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script src="https://www.trec.texas.gov/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.datepicker.min.js?v=1.10.2"></script>
+<script src="https://www.trec.texas.gov/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js?v=1.10.2"></script>
+<script src="https://www.trec.texas.gov/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.slider.min.js?v=1.10.2"></script>
+<script src="https://www.trec.texas.gov/sites/all/libraries/jquery-ui-timepicker/jquery-ui-sliderAccess.js?v=1.4"></script>
+<script src="https://www.trec.texas.gov/sites/all/libraries/jquery-ui-timepicker/jquery-ui-timepicker-addon.js?v=1.4"></script>
+<script src="https://www.trec.texas.gov/sites/all/modules/ckeditor_accordion/js/ckeditor-accordion.js?slgluz"></script>
+<script src="https://www.trec.texas.gov/sites/all/modules/custom/pdf_listing/js/pdf_listing.js?slgluz"></script>
+<script src="https://www.trec.texas.gov/misc/autocomplete.js?v=7.78"></script>
+<script src="https://www.trec.texas.gov/sites/all/modules/google_analytics/googleanalytics.js?slgluz"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-36782666-3", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="https://www.trec.texas.gov/sites/all/modules/stanford_date_timepicker/js/stanford_date_timepicker.js?slgluz"></script>
+<script src="https://www.trec.texas.gov/sites/all/modules/views_autocomplete_filters/js/views-autocomplete-filters-dependent.js?slgluz"></script>
+<script src="https://www.trec.texas.gov/sites/all/themes/trec/js/bootstrap.min.js?slgluz"></script>
+<script src="https://www.trec.texas.gov/sites/all/themes/trec/js/main.js?slgluz"></script>
+<script src="https://www.trec.texas.gov/sites/all/themes/trec/js/vendor/spamspan.js?slgluz"></script>
+<script src="https://www.trec.texas.gov/sites/all/themes/bootstrap/js/misc/autocomplete.js?slgluz"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"trec","theme_token":"cizdxkJ2qvJHu1zau49TDmxmYtHPMdM_7wgUNWAX-2A","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.datepicker.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.slider.min.js":1,"sites\/all\/libraries\/jquery-ui-timepicker\/jquery-ui-sliderAccess.js":1,"sites\/all\/libraries\/jquery-ui-timepicker\/jquery-ui-timepicker-addon.js":1,"sites\/all\/modules\/ckeditor_accordion\/js\/ckeditor-accordion.js":1,"sites\/all\/modules\/custom\/pdf_listing\/js\/pdf_listing.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/stanford_date_timepicker\/js\/stanford_date_timepicker.js":1,"sites\/all\/modules\/views_autocomplete_filters\/js\/views-autocomplete-filters-dependent.js":1,"sites\/all\/themes\/trec\/js\/bootstrap.min.js":1,"sites\/all\/themes\/trec\/js\/main.js":1,"sites\/all\/themes\/trec\/js\/vendor\/spamspan.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/autocomplete.js":1},"css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"misc\/ui\/jquery.ui.slider.css":1,"sites\/all\/libraries\/jquery-ui-timepicker\/jquery-ui-timepicker-addon.css":1,"sites\/all\/modules\/custom\/agency_calendar\/agency_calendar.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/ckeditor_accordion\/css\/ckeditor-accordion.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pdf_listing\/css\/pdf_listing.css":1,"sites\/all\/modules\/custom\/representatives\/representatives.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/trec\/css\/bootstrap.css":1,"sites\/all\/themes\/trec\/css\/style.css":1}},"urlIsAjaxTrusted":{"\/search-topic\/feed":true,"\/":true},"ckeditor_accordion":{"collapseAll":1},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"stanford_date_timepicker":{"classes":"","default_date_format":"yy-mm-dd","default_time_format":"hh:mm","default_separator":" "},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+    
+</head>
+<body class="html front not-logged-in no-sidebars page-node" >
+<a accesskey="s" href="#cpw_main" id="sfSkip" class="hidden-print" tabindex="1">
+    Skip to Content
+</a>
+<div id="page-wrapper">
+        
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('page') -->
+<!-- FILE NAME SUGGESTIONS:
+   * page--front.tpl.php
+   * page--node.tpl.php
+   x page.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/page.tpl.php' -->
+<section id="print-header" class="visible-print">
+    <h1>
+        <img src="/assets/trec/img/icon/trec-bw-logo.png" alt="trec-logo"/>
+        <div class="print-page-title">Texas Real Estate Commission</div>
+    </h1>
+</section>
+<section id="page-header" class="hidden-print">
+    <header id="navbar" role="banner" class="navbar navbar-default navbar-custom">
+        <div class="container">
+            <div class="row">
+                <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+                <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse"
+                                data-target=".navbar-search-collapse">
+                            <span class="sr-only">Toggle search</span>
+                            <div aria-hidden="true" class="site-glyphs glyphs-search"></div>
+                            Search
+                        </button>
+                        <button type="button" class="navbar-toggle" data-toggle="collapse"
+                                data-target=".navbar-login-collapse">
+                            <span class="sr-only">Toggle login</span>
+                            <div aria-hidden="true" class="site-glyphs glyphs-login"></div>
+                            Login
+                        </button>
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
+                            <span class="sr-only">Toggle navigation</span>
+                            <div aria-hidden="true" class="site-glyphs glyphs-reorder"></div>
+                            Menu
+                        </button>
+                        <div class="flip-card">
+                          <div class="flip-card-inner">
+                            <h1 class="flip-card-front"><a class="navbar-brand" href="/"
+                               title="Home">TREC</a></h1>
+                            <h1 class="flip-card-back"><a class="navbar-brand" href="" title="Survey link">TREC</a></h1>
+                          </div>
+                        </div><!--end flip-card-->
+                    </div><!--.navbar-header-->
+                </div><!--.col-??-##-->
+                <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
+                    <div class="collapse navbar-collapse navbar-login-collapse navbar-right">
+                         <div id="login-info-block" class="login-info-block" style="display:none;">
+                           <span class="icon-general"></span><span class="login-info-block-text">Invalid UserID or Password</span>
+                         </div>
+                                                    <!-- OR IF LOGGED IN DISPLAY A MENU -->
+                            <div class="login navbar-form form-inline">
+                                <div class="btn-group">
+                                    <div class="col-sm-offset-2 col-sm-10">
+                                        <label class="form-group">Logged
+                                            On User:<br/>
+                                            <button type="button"
+                                                    class="btn btn-default btn-xs btn-beveled dropdown-toggle"
+                                                    data-toggle="dropdown" style="width:200px; margin-right:-15px;">
+                                                <strong>LAKSHMI NAIDU CHOUDARY KOYA</strong>
+                                                <span class="caret"></span>
+                                            </button>
+                                            <ul class="dropdown-menu" role="menu">
+                                                <li><a href="/apps/license-holder-search/">License Search</a></li>
+                                                <li><a href="/apps/widgets/auth-vo-login.php" target="_blank">My License Services</a></li>                                                <li class="divider"></li>
+                                                                                                                                                                                                    <li><a name="user-logout" id="user-logout" href="#">Log Out</a></li>
+                                                                                            </ul>
+                                        </label>
+                                    </div>
+                                </div>
+                            </div><!-- -->
+                                                </div><!--navbar-login-collapse-->
+                    <div class="collapse navbar-collapse navbar-search-collapse navbar-right">
+                                                    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('region') -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--navigation.tpl.php
+   x region.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'modules/system/region.tpl.php' -->
+  <div class="region region-navigation">
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('block') -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--search--form.tpl.php
+   * block--search.tpl.php
+   * block--navigation.tpl.php
+   x block.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/bootstrap/templates/block/block.tpl.php' -->
+<section id="block-search-form" class="block block-search clearfix">
+
+      
+  <form class="form-search content-search" action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div>
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('search_block_form') -->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/search-block-form.tpl.php' -->
+    <div class="collapse navbar-collapse navbar-search-collapse navbar-right">
+        <div class="search navbar-form form-inline">
+            <label class="form-group">Site Search<br>
+                <input title="Enter the terms you wish to search for." placeholder="" class="input-xs form-control form-text" type="text" id="" name="search_block_form" value="" size="15" maxlength="128">
+                <button type="submit" class="btn btn-default btn-xs btn-beveled">Search</button>
+                <button class="element-invisible btn btn-primary form-submit" id="edit-submit" name="op" value="Search" type="submit">Search Site</button>
+                <input type="hidden" name="form_id" value="search_block_form">
+            </label>
+        </div>
+    </div><!--navbar-search-collapse-->    
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/search-block-form.tpl.php' -->
+
+</div></form>
+</section>
+
+<!-- END OUTPUT from 'sites/all/themes/bootstrap/templates/block/block.tpl.php' -->
+
+  </div>
+
+<!-- END OUTPUT from 'modules/system/region.tpl.php' -->
+
+                                            </div><!--navbar-search-collapse-->
+
+                                            <div id="main-nav" class="navbar-collapse collapse" style="max-height:none !important;">
+                            <nav role="navigation">
+                                                                    <ul class="menu nav navbar-nav"><li class="first leaf active"><a href="/" title="TREC Home Page" class="active"><div class="icon-home nav-sprite"></div>Home</a></li>
+<li class="expanded dropdown"><a  href="/" title="Options for license holders looking to renew an existing license." class="dropdown-toggle nolink" data-toggle="dropdown" tabindex="0"><div class="icon-current nav-sprite"></div>Renew License <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a  href="/" title="" class="nolink" tabindex="0"><span class="menu-category-title">Licensing Forms</span><span class="caret"></span></a></li>
+<li class="leaf"><a href="/licensing-forms" title="">Licensing Forms</a></li>
+<li class="leaf"><a  href="/" title="" class="nolink" tabindex="0"><span class="menu-category-title">Real Estate</span><span class="caret"></span></a></li>
+<li class="leaf"><a href="/renew-license/real-estate-sales-agent">Real Estate Sales Agent</a></li>
+<li class="leaf"><a href="/renew-license/real-estate-broker">Individual Real Estate Broker</a></li>
+<li class="leaf"><a href="/renew-license/business-entity-real-estate-broker">Business Entity Real Estate Broker</a></li>
+<li class="leaf"><a  href="/" title="" class="nolink" tabindex="0"><span class="menu-category-title">Easement or Right-of-Way</span><span class="caret"></span></a></li>
+<li class="leaf"><a href="/renew-license/easement-or-right-way-agent">Easement or Right-of-Way Agent</a></li>
+<li class="leaf"><a href="/renew-license/easement-or-right-way-business">Easement or Right-of-Way Business</a></li>
+<li class="leaf"><a  href="/" title="" class="nolink" tabindex="0"><span class="menu-category-title">Inspectors</span><span class="caret"></span></a></li>
+<li class="leaf"><a href="/renew-license/inspector">Inspectors</a></li>
+<li class="leaf"><a  href="/" title="" class="nolink" tabindex="0"><span class="menu-category-title">Education Providers</span><span class="caret"></span></a></li>
+<li class="leaf"><a href="/renew/qualifying-education-provider">Qualifying Education Provider</a></li>
+<li class="leaf"><a href="/renew/continuing-education-provider">Continuing Education Provider</a></li>
+<li class="leaf"><a  href="/" title="" class="nolink" tabindex="0"><span class="menu-category-title">Timeshare Plans</span><span class="caret"></span></a></li>
+<li class="last leaf"><a href="/renew-license/timeshare-plan-texas">Timeshare Plans</a></li>
+</ul></li>
+<li class="expanded dropdown"><a  href="/" title="Options for people looking to become licensed for the first time." class="dropdown-toggle nolink" data-toggle="dropdown" tabindex="0"><div class="icon-potential nav-sprite"></div>Become Licensed <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a  href="/" title="" class="nolink" tabindex="0"><span class="menu-category-title">Licensing Forms</span><span class="caret"></span></a></li>
+<li class="leaf"><a href="/licensing-forms" title="">Licensing Forms</a></li>
+<li class="leaf"><a href="/forms/fitness-determination" title="Find out if your criminal or disciplinary history will keep you from getting a license.">Request a Fitness Determination</a></li>
+<li class="leaf"><a  href="/" title="" class="nolink" tabindex="0"><span class="menu-category-title">Real Estate</span><span class="caret"></span></a></li>
+<li class="leaf"><a href="/become-licensed/sales-agent">Real Estate Sales Agent</a></li>
+<li class="leaf"><a href="/become-licensed/individual-real-estate-broker">Individual Real Estate Broker</a></li>
+<li class="leaf"><a href="/become-licensed/business-entity-real-estate-broker">Business Entity Real Estate Broker</a></li>
+<li class="leaf"><a  href="/" title="" class="nolink" tabindex="0"><span class="menu-category-title">Easement or Right of Way</span><span class="caret"></span></a></li>
+<li class="leaf"><a href="/become-licensed/easement-or-right-way-agent">Easement or Right-of-Way Agent</a></li>
+<li class="leaf"><a href="/become-licensed/easement-or-right-way-business">Easement or Right-of-Way Business</a></li>
+<li class="leaf"><a  href="/" title="" class="nolink" tabindex="0"><span class="menu-category-title">Inspectors</span><span class="caret"></span></a></li>
+<li class="leaf"><a href="/become-licensed/apprentice-inspector">Apprentice Inspector</a></li>
+<li class="leaf"><a href="/become-licensed/real-estate-inspector">Real Estate Inspector</a></li>
+<li class="leaf"><a href="/become-licensed/professional-real-estate-inspector">Professional Real Estate Inspector</a></li>
+<li class="leaf"><a  href="/" title="" class="nolink" tabindex="0"><span class="menu-category-title">Education Providers</span><span class="caret"></span></a></li>
+<li class="leaf"><a href="/become-licensed/qualifying-education-provider">Qualifying Education Provider</a></li>
+<li class="leaf"><a href="/become-licensed/continuing-education-provider">Continuing Education Provider</a></li>
+<li class="leaf"><a  href="/" title="" class="nolink" tabindex="0"><span class="menu-category-title">Timeshare Plans</span><span class="caret"></span></a></li>
+<li class="last leaf"><a href="/become-licensed/register-timeshare-plan">Timeshare Plans</a></li>
+</ul></li>
+<li class="expanded dropdown"><a  href="/" title="" class="dropdown-toggle nolink" data-toggle="dropdown" tabindex="0"><div class="icon-education nav-sprite"></div>Education <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a  href="/" title="" class="nolink" tabindex="0"><span class="menu-category-title">Search Approved Courses</span><span class="caret"></span></a></li>
+<li class="leaf"><a href="/education/approved-qualifying-real-estate-courses">Real Estate Qualifying Courses</a></li>
+<li class="leaf"><a href="/education/approved-real-estate-ce-courses">Real Estate CE Courses</a></li>
+<li class="leaf"><a href="/education/qualifying-inspector-courses">Inspector Qualifying Courses</a></li>
+<li class="leaf"><a href="/education/approved-inspector-ce-courses">Inspector CE (ICE) Courses</a></li>
+<li class="leaf"><a href="/education/qualifying-erw-courses">ERW Qualifying Courses</a></li>
+<li class="leaf"><a href="/education/erw-ce-courses">ERW CE Courses</a></li>
+<li class="leaf"><a  href="/" title="" class="nolink" tabindex="0"><span class="menu-category-title">Licensing Exam Information</span><span class="caret"></span></a></li>
+<li class="leaf"><a  href="/" title="" class="nolink" tabindex="0"><span class="menu-category-sub-title">Exam Topic Reports:</span></a></li>
+<li class="leaf"><a href="/exam-topic-reports"><div class="menu-category-sub-item">Sales Agent and Brokers</div></a></li>
+<li class="leaf"><a href="/exam-topic-reports-inspectors"><div class="menu-category-sub-item">Inspectors</div></a></li>
+<li class="leaf"><a  href="/" title="" class="nolink" tabindex="0"><span class="menu-category-sub-title">Provider Exam Pass Rates:</span></a></li>
+<li class="leaf"><a href="/education/education-provider-exam-passage-rates-sales-agents-and-brokers"><div class="menu-category-sub-item">Sales Agents and Brokers</div></a></li>
+<li class="last leaf"><a href="/education/education-provider-exam-passage-rates-inspectors"><div class="menu-category-sub-item">Inspectors</div></a></li>
+</ul></li>
+<li class="expanded dropdown"><a  href="/" title="Links to content intended for the general public." class="dropdown-toggle nolink" data-toggle="dropdown" tabindex="0"><div class="icon-public nav-sprite"></div>Public <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/public/consumer-information">Consumer Information</a></li>
+<li class="leaf"><a href="/public/consumer-forms">Consumer Forms</a></li>
+<li class="leaf"><a href="/public/how-file-complaint">How to File a Complaint</a></li>
+<li class="leaf"><a href="/public/request-public-information">Public Information Request</a></li>
+<li class="leaf"><a href="/news-articles">News and Articles</a></li>
+<li class="leaf"><a href="/apps/disciplinary-actions/">Disciplinary Actions</a></li>
+<li class="leaf"><a href="https://www.trec.texas.gov/apps/license-holder-search/?lic_name=&amp;lic_hp=&amp;industry=Real+Estate" title="Find License Holders">License Holder Search</a></li>
+<li class="last leaf"><a href="/public/frequently-asked-questions">Frequently Asked Questions</a></li>
+</ul></li>
+<li class="last expanded dropdown"><a  href="/" title="Links to information about the Agency." class="dropdown-toggle nolink" data-toggle="dropdown" tabindex="0"><div class="icon-general nav-sprite"></div>Agency Information <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/agency-information/contact-us">Contact Us</a></li>
+<li class="leaf"><a href="/trec-processing-times">Processing Dates</a></li>
+<li class="leaf"><a href="/agency-information/contracts" title="">Contracts</a></li>
+<li class="leaf"><a href="/agency-information/about-trec">About TREC</a></li>
+<li class="collapsed"><a href="/about-commission">About the Commission</a></li>
+<li class="leaf"><a href="/rules-and-laws">Rules and Laws</a></li>
+<li class="leaf"><a href="/apps/meetings/">Meetings and Minutes</a></li>
+<li class="leaf"><a href="/required-agency-reports">Agency Reports</a></li>
+<li class="leaf"><a href="/agency-information/fee-schedule">Fee Schedule</a></li>
+<li class="leaf"><a href="/agency-information/employment-opportunities">Employment Opportunities</a></li>
+<li class="leaf"><a href="/procurement-and-contracting-information">Procurement and Contracting Information</a></li>
+<li class="last leaf"><a href="/public/customer-service-survey%22%20">Customer Satisfaction Survey</a></li>
+</ul></li>
+</ul>                                                                
+                            </nav>
+                        </div><!--/.nav-collapse -->
+                                    </div>
+            </div>
+        </div>
+    </header>
+</section>
+<section id="page-alerts">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <noscript>
+                    <div class="alert alert-danger">
+                        Javascript is disabled in your browser. This site requires javascript.
+                    </div>
+                </noscript>
+                                    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('region') -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--alert.tpl.php
+   x region.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'modules/system/region.tpl.php' -->
+  <div class="region region-alert">
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('block') -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--views--df68f0f82687bb7f79e6e15e2e6cdae6.tpl.php
+   * block--views.tpl.php
+   * block--alert.tpl.php
+   x block.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/bootstrap/templates/block/block.tpl.php' -->
+<section id="block-views-df68f0f82687bb7f79e6e15e2e6cdae6" class="block block-views clearfix">
+
+      
+  
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view__home_page_slide_show__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view--home-page-slide-show--block.tpl.php
+   * views-view--home-page-slide-show.tpl.php
+   * views-view.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view--home-page-slide-show--block.tpl.php' -->
+<div id="home-banner" class="hidden-xs hidden-sm clearfix">
+  		<div class="cycle-slideshow home-slideshow" data-cycle-slides="div" data-cycle-speed="400" data-cycle-fx="scrollHorz" data-cycle-pager=".home-banner-pager" data-cycle-pager-template="" data-cycle-pause-on-hover="true" >
+			
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_unformatted__home_page_slide_show__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-unformatted--home-page-slide-show--block.tpl.php
+   * views-view-unformatted--home-page-slide-show.tpl.php
+   * views-view-unformatted.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view-unformatted--home-page-slide-show--block.tpl.php' -->
+
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__home_page_slide_show__block_slider_left') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--home-page-slide-show--block-slider-left.tpl.php
+   * views-view-fields--home-page-slide-show.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-left.tpl.php' -->
+<div class="slide" style="background-image: url(//www.trec.texas.gov/sites/default/files/CoffeeBooksWeb-01_7.jpg);"><a href="/article/applications-revised-qe-courses-being-accepted-now"><span>Learn More</span></a></div>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-left.tpl.php' -->
+
+
+
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__home_page_slide_show__block_slider_left') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--home-page-slide-show--block-slider-left.tpl.php
+   * views-view-fields--home-page-slide-show.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-left.tpl.php' -->
+<div class="slide" style="background-image: url(//www.trec.texas.gov/sites/default/files/esac%20copy_4.png);"><a href="/article/esac-recommended-changes-course-proctoring-and-student-verification"><span>Learn More</span></a></div>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-left.tpl.php' -->
+
+
+
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__home_page_slide_show__block_slider_left') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--home-page-slide-show--block-slider-left.tpl.php
+   * views-view-fields--home-page-slide-show.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-left.tpl.php' -->
+<div class="slide" style="background-image: url(//www.trec.texas.gov/sites/default/files/LeadershipConcept700x467-01_0.jpg);"><a href="/article/what-new-broker-succession-rule-means"><span>Learn More</span></a></div>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-left.tpl.php' -->
+
+
+
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__home_page_slide_show__block_slider_left') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--home-page-slide-show--block-slider-left.tpl.php
+   * views-view-fields--home-page-slide-show.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-left.tpl.php' -->
+<div class="slide" style="background-image: url(//www.trec.texas.gov/sites/default/files/ColorfulComments-01_1.jpg);"><a href="/article/comment-proposed-contract-form-changes"><span>Learn More</span></a></div>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-left.tpl.php' -->
+
+
+
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__home_page_slide_show__block_slider_left') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--home-page-slide-show--block-slider-left.tpl.php
+   * views-view-fields--home-page-slide-show.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-left.tpl.php' -->
+<div class="slide" style="background-image: url(//www.trec.texas.gov/sites/default/files/TREC%20Meeting%20Recap_Web700x467_5.jpg);"><a href="/article/proposed-contract-form-changes-broker-succession-rule-adopted-during-august-2024-trec"><span>Learn More</span></a></div>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-left.tpl.php' -->
+
+
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view-unformatted--home-page-slide-show--block.tpl.php' -->
+
+		</div><!-- home-slideshow -->
+					
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view__home_page_slide_show__block_slider_right') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view--home-page-slide-show--block-slider-right.tpl.php
+   * views-view--home-page-slide-show.tpl.php
+   * views-view.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view--home-page-slide-show--block-slider-right.tpl.php' -->
+  			<div class="home-banner-pager">
+					
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_unformatted__home_page_slide_show__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-unformatted--home-page-slide-show--block.tpl.php
+   * views-view-unformatted--home-page-slide-show.tpl.php
+   * views-view-unformatted.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view-unformatted--home-page-slide-show--block.tpl.php' -->
+
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__home_page_slide_show__block_slider_right') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--home-page-slide-show--block-slider-right.tpl.php
+   * views-view-fields--home-page-slide-show.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-right.tpl.php' -->
+<a href="/article/applications-revised-qe-courses-being-accepted-now">
+		<span class="pager-inner">
+			<span class="pager-header">Applications for Revised QE Courses Being Accepted Now</span>
+			<span class="pager-text">At the August TREC Meeting, the Commission adopted revisions to the Principles o . . . </span>
+		</span>
+</a>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-right.tpl.php' -->
+
+
+
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__home_page_slide_show__block_slider_right') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--home-page-slide-show--block-slider-right.tpl.php
+   * views-view-fields--home-page-slide-show.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-right.tpl.php' -->
+<a href="/article/esac-recommended-changes-course-proctoring-and-student-verification">
+		<span class="pager-inner">
+			<span class="pager-header">ESAC-Recommended Changes: Course Proctoring and Student Verification  </span>
+			<span class="pager-text">During the Texas Real Estate Commission’s Education Standards Advisory Committ . . . </span>
+		</span>
+</a>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-right.tpl.php' -->
+
+
+
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__home_page_slide_show__block_slider_right') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--home-page-slide-show--block-slider-right.tpl.php
+   * views-view-fields--home-page-slide-show.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-right.tpl.php' -->
+<a href="/article/what-new-broker-succession-rule-means">
+		<span class="pager-inner">
+			<span class="pager-header">What the New Broker Succession Rule Means</span>
+			<span class="pager-text">During the August TREC Meeting, the Commission adopted new rule 535.124, Death o . . . </span>
+		</span>
+</a>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-right.tpl.php' -->
+
+
+
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__home_page_slide_show__block_slider_right') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--home-page-slide-show--block-slider-right.tpl.php
+   * views-view-fields--home-page-slide-show.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-right.tpl.php' -->
+<a href="/article/comment-proposed-contract-form-changes">
+		<span class="pager-inner">
+			<span class="pager-header">Comment on Proposed Contract Form Changes</span>
+			<span class="pager-text">The Broker-Lawyer Committee (BLC) recommended several changes to the TREC contr . . . </span>
+		</span>
+</a>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-right.tpl.php' -->
+
+
+
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__home_page_slide_show__block_slider_right') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--home-page-slide-show--block-slider-right.tpl.php
+   * views-view-fields--home-page-slide-show.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-right.tpl.php' -->
+<a href="/article/proposed-contract-form-changes-broker-succession-rule-adopted-during-august-2024-trec">
+		<span class="pager-inner">
+			<span class="pager-header">Proposed Contract Form Changes, Broker Succession Rule Adopted During August 2024 TREC Meeting</span>
+			<span class="pager-text">The Texas Real Estate Commission met August 19 in Austin for its third meeting o . . . </span>
+		</span>
+</a>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view-fields--home-page-slide-show--block-slider-right.tpl.php' -->
+
+
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view-unformatted--home-page-slide-show--block.tpl.php' -->
+
+			</div>
+  
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view--home-page-slide-show--block-slider-right.tpl.php' -->
+
+		  </div>
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view--home-page-slide-show--block.tpl.php' -->
+
+
+</section>
+
+<!-- END OUTPUT from 'sites/all/themes/bootstrap/templates/block/block.tpl.php' -->
+
+  </div>
+
+<!-- END OUTPUT from 'modules/system/region.tpl.php' -->
+
+                            </div>
+        </div><!--/.row-->
+    </div><!--/.container-->
+</section><!--/#page-alerts-->
+<section id="page-content">
+    <div class="main-container container">
+        <div class="row">
+            <div id="sidebar" class="col-xs-12 col-sm-12 col-md-5 col-md-push-7 col-lg-4 col-lg-push-8">
+                <div class="panel panel-dropped hidden-print">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">
+                            License Holder Search
+                            <a href="#" title="Toggle Visibility" class="glyphicon collapsed panel-toggle"
+                               data-toggle="collapse" data-target="#licensee-search"></a>
+                        </h3>
+                    </div>
+                    <div id="licensee-search" class="panel-body panel-collapse collapse no-zero-height">
+                        <form method="get" action="/apps/license-holder-search/" class="form-group">
+                            <label class="form-group">
+                                Name or License Number<br/>
+                                <input name="lic_name" id="lic_name" type="text" class="form-control input-sm"/>
+                            </label>
+                            <label class="form-group hd-form-field">
+                                email<br/>
+                                <input name="lic_hp" id="lic_hp" type="email" class="hp-form-field form-control input-sm"/>
+                            </label>
+ 			    <input name="ww" id="ww" type="hidden" class="hp-form-field"/>
+
+                            <div id="search-options">
+                                <label class="form-group">
+                                    License Type<br/>
+                                    <select class="form-control input-sm" id="industry" name="industry">
+                                        <option selected="selected" value="Real Estate">Broker or Sales Agent</option>
+                                        <option value="Inspectors">Inspector</option>
+                                        <option value="ERW">Easement &amp; Right of Way Agent</option>
+                                        <option value="Appraisers">Real Estate Appraiser</option>
+                                        <option value="AMC">Appraisal Management Company</option>
+                                        <option value="Providers">Education Provider</option>
+
+                                    </select>
+                                </label>
+                            </div>
+                            <button name="license_search" type="submit" value="Search"
+                                    class="btn btn-default btn-xs btn-beveled pull-right">Search Licenses
+                            </button>
+                        </form>
+                    </div>
+                </div>
+                                                                    <div class="panel panel-calendar">
+                        
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('region') -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--sidebar-third.tpl.php
+   x region.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'modules/system/region.tpl.php' -->
+  <div class="region region-sidebar-third">
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('block') -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--agency-calendar--upcoming-events-block.tpl.php
+   * block--agency-calendar.tpl.php
+   * block--sidebar-third.tpl.php
+   x block.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/bootstrap/templates/block/block.tpl.php' -->
+<section id="block-agency-calendar-upcoming-events-block" class="block block-agency-calendar clearfix">
+
+      
+      
+    
+        <div id="block-views-calendar-block-2" class="panel-heading">
+            <h3 class="panel-title">
+                Upcoming Events
+                <a class="glyphicon collapsed panel-toggle" data-target="#calendar-items" data-toggle="collapse" title="Toggle Visibility" href="#"></a>
+            </h3>
+        </div>
+        <div id="calendar-items" class="panel-body panel-collapse collapse no-zero-height expand-for-print">
+            <ul class="list-unstyled">
+                <li class="clearfix" title="2024-11-04: TREC Commission Meeting">
+    <div class="pull-left calendar-date">
+        Nov<br>
+        <span class="calendar-day">04</span>
+    </div>
+    <div class="calendar-content">
+        <p class="event_title">
+            <a href="/apps/meetings/view.php?meeting_id=674">TREC Commission Meeting</a>
+        </p>
+        <p></p>
+    </div>
+</li><li class="clearfix" title="2024-11-04: TREC Commission Meeting (Workshop)">
+    <div class="pull-left calendar-date">
+        Nov<br>
+        <span class="calendar-day">04</span>
+    </div>
+    <div class="calendar-content">
+        <p class="event_title">
+            <a href="/apps/meetings/view.php?meeting_id=713">TREC Commission Meeting (Workshop)</a>
+        </p>
+        <p></p>
+    </div>
+</li><li class="clearfix" title="2024-11-11: Agency Closed">
+    <div class="pull-left calendar-date">
+        Nov<br>
+        <span class="calendar-day">11</span>
+    </div>
+    <div class="calendar-content">
+        <p class="event_title">
+            <a href="agency-closed-67">Agency Closed</a>
+        </p>
+        <p>TREC will be closed in observance of Veterans Day.&nbsp; You can still access the&nbsp;online system...</p>
+    </div>
+</li><li class="clearfix" title="2024-11-27: Agency Closed">
+    <div class="pull-left calendar-date">
+        Nov<br>
+        <span class="calendar-day">27</span>
+    </div>
+    <div class="calendar-content">
+        <p class="event_title">
+            <a href="agency-closed-68">Agency Closed</a>
+        </p>
+        <p>TREC will be closed in observance of Thanksgiving.&nbsp; You can still access the&nbsp;online system...</p>
+    </div>
+</li><li class="clearfix" title="2024-11-28: Agency Closed">
+    <div class="pull-left calendar-date">
+        Nov<br>
+        <span class="calendar-day">28</span>
+    </div>
+    <div class="calendar-content">
+        <p class="event_title">
+            <a href="agency-closed-69">Agency Closed</a>
+        </p>
+        <p>TREC will be closed in observance of Thanksgiving.&nbsp; You can still access the&nbsp;online system...</p>
+    </div>
+</li>
+            </ul>
+            <a class="btn btn-more pull-right" href="/agency-calendar">
+                <span>See More Events</span>
+            </a>
+        </div> <!-- /#calendar-items .panel-body -->
+    
+
+
+</section>
+
+<!-- END OUTPUT from 'sites/all/themes/bootstrap/templates/block/block.tpl.php' -->
+
+  </div>
+
+<!-- END OUTPUT from 'modules/system/region.tpl.php' -->
+
+                    </div>  <!-- /#sidebar-third -->
+                            </div>
+            <section id="main-content" class="col-xs-12 col-sm-12 col-md-7 col-md-pull-5 col-lg-8 col-lg-pull-4">
+                <a name="cpw_main" id="cpw_main"></a>
+                <div class="row">
+                                        <!---->
+                    <a id="main-content"></a>
+                                                                                                    
+                    
+                                                                                                    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('region') -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--no-wrapper.tpl.php
+   * region--content.tpl.php
+   x region.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'modules/system/region.tpl.php' -->
+  <div class="region region-content">
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x block--block--13.tpl.php
+   * block--block.tpl.php
+   * block--content.tpl.php
+   * block.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/block--block--13.tpl.php' -->
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+<section id="block-block-13" class="block block-block">
+        <style>
+#application-search-container .photo-buttons button {
+	width: 18rem;
+	height: 23rem;
+	background-repeat:no-repeat;
+	margin: 0;
+	padding: 0;
+	color: #FFFFFF;
+	font-size: 1.5em;
+	font-family: "Roboto Slab", "serif";
+	border: none;
+}
+
+ #becomeLicensedToggle {
+	/*background-image: url("../images/become_licensed_button_bg.png");*/
+	background-image: url("./apps/application-tracker/images/become_licensed_button_bg.png");
+	background-size: cover;
+}
+ #applicationSearchToggle {
+	background-image: url("./apps/application-tracker/images/application_status_button_bg.png");
+	/* background-image: url("../images/application_status_button_bg.png");*/
+	background-size: cover;
+}
+
+#application-search-container .card {
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 0.5rem 0px rgba(0, 0, 0, .2);
+    position: relative;
+}
+
+#application-search-container .photo-buttons {
+	text-align: center;
+}
+
+#becomeLicensedContainer {
+	text-align: left;
+	padding: 2rem;
+}
+
+#becomeLicensedContainer img{
+	width: 8rem;
+}
+
+#becomeLicensedContainer div.become-licensed-license-list {
+	display:flex;
+	align-items: flex-start;
+}
+
+#becomeLicensedLicenseList {
+	overflow-x: hidden;
+    overflow-y: auto;
+    list-style: none;
+    max-height: 10rem;
+    margin: 0 0 0 1rem;
+    padding: 0;
+}
+
+#applicationSearchFormHomePage {
+	text-align: center;
+	padding: 4rem 1rem;
+}
+
+#applicationSearchFormHomePage .label-container {
+	margin-bottom: 1rem;
+}
+
+#applicationSearchFormHomePage .label-container span {
+    color:#a4372c;
+	font-family: "Roboto Slab", "serif";
+	font-size: 1.25em;
+    position: relative;
+    bottom: 1rem;
+	margin-left: 2rem;
+}
+
+#login-block-form-home-page .login-info-block {
+    background: #FFFFFF;
+    color: #005C81;
+    padding: 1rem;
+    border:none;
+    display: flex;
+    align-items: center;
+    font-size: 1em;
+}
+
+#login-block-form-home-page .login-info-block .icon-general {
+    margin-right: 1rem;
+}
+
+#login-block-form-home-page .login-info-block .icon-general:before {
+    font-size: 3rem;
+    color: #005C81;
+}
+
+@media screen and (max-width: 768px) {
+
+  #application-search-container .photo-buttons button {
+    width: 15.9rem;
+	height: 20rem;
+  }
+}
+</style>
+			<div class="panel panel-unboxed application-search-home-page-panel">
+				<div class="panel-heading">
+					         <h3 class="panel-title">Become Licensed
+                                                     <a href="#" title="Toggle Visibility" class="glyphicon collapsed panel-toggle" data-toggle="collapse" data-target="#application-search-container"></a>
+                                                  </h3>
+				</div>
+				<div class="panel-body panel-collapse collapse no-zero-height expand-for-print" id="application-search-container">
+					<div id="photoButtonContainer">
+					<p>Register to begin a new application for licensure or check the status of your application.  </p>
+					<div class="photo-buttons">
+						<button id="becomeLicensedToggle" class="btn btn-link">Register<br>Here</button>
+					<button id="applicationSearchToggle" class="btn btn-link">Check<br>Application<br>Status</button>
+					</div>
+					</div>	
+					<form class="card" accept-charset="UTF-8" action="./apps/application-tracker/" id="applicationSearchFormHomePage" method="GET" style="display:none">
+						<div class="form-group">
+							<label>
+								<div class="label-container">
+									
+									<span>Application Status Search</span>
+								</div>
+								<input class="form-control input-sm" id="homeApplicationSearchBox" size="40" name="homeApplicationSearch" type="text" placeholder="Search by Name, Email or Phone" />
+							</label>
+						</div><!--close form group-->
+						<div class="row">
+							<button class="btn btn-default btn-xs btn-beveled" id="homeApplicationSearchButton" name="homeApplicationSearchButton" type="submit">Search Applications</button>
+							<button id="cancelSearch" class="btn btn-link" type="button">Cancel</button>
+					</div>
+					</form>
+					<div id="becomeLicensedContainer" class="card" style="display:none">
+					
+						<p align="justify"><a href="https://mylicense.trec.texas.gov/datamart/registration.do?from=loginPage">REGISTER HERE to get a User ID</a>. If you have renewed online in the last two years, please login with your User ID and Password!</p>
+
+<div id="login-widget-form">
+<form accept-charset="UTF-8" action="" id="login-block-form-home-page" method="post">
+<div class="form-group"><label style="width:100%;">My License Services ID<br />
+<input class="form-control input-sm" id="homeUserID" name="homeUserID" type="text" /> 
+<div class="forgot-pass"><a tabindex="11" href="//mylicense.trec.texas.gov/datamart/askEmailAddr.do">Forgot User ID?</a></div>
+</label></div>
+<input id="fauxHomeUserID" name="fauxHomeUserID" style="display:none;" type="text" /> <input autocomplete="off" id="fauxHomeUserPassword" name="fauxHomeUserPassword" style="display:none;" type="password" />
+<div class="form-group"><label style="width:100%;">Password<br />
+<input autocomplete="off" class="form-control input-sm" id="homeUserPassword" name="homeUserPassword" type="password" />
+<div><a href="//mylicense.trec.texas.gov/datamart/askUserid.do" class="forgot-pass">Forgot Password?</a></div>
+ </label></div>
+<div id="login-info-block-home-page" class="login-info-block" style="display:none;">
+                           <span class="icon-general"></span><span class="login-info-block-text">Invalid UserID or Password</span>
+</div>
+<div  class="login-block-form-home-page-button-container">
+<button class="btn btn-default btn-beveled" id="homePageLogin" name="homePageLogin" type="submit">LOGIN</button>
+<button class="btn btn-default btn-beveled pull-right closeButton" type="button">Cancel</button>
+</div>
+</form>
+</div>
+					</div>
+				</div>
+			</div></section>
+</div>
+
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/block--block--13.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('block') -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--block--14.tpl.php
+   * block--block.tpl.php
+   * block--content.tpl.php
+   x block.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/bootstrap/templates/block/block.tpl.php' -->
+<section id="block-block-14" class="block block-block clearfix">
+
+      
+   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+  <div class="panel panel-unboxed">
+      <div class="panel-heading">
+          <h3 class="panel-title">
+            Forms            <a href="#" title="Toggle Visibility" class="glyphicon collapsed panel-toggle" data-toggle="collapse" data-target="#home-page-form-center"></a>
+          </h3>
+      </div>
+    <div id="home-page-form-center" class="panel-body panel-collapse collapse no-zero-height expand-for-print">
+    <div class="row">
+      <div class="col col-xs-6">
+        <button id="btnOpenPopularForms" class="btn btn-link" name="btnOpenPopularForms" >
+          <img alt="Popular Forms Icon" src="/assets/trec/img/Popular.png" />
+        </button>
+      </div>
+      <div class="col col-xs-6">
+        <a  href="/licensing-forms">
+          <img alt="Licensing Forms Icon" src="/assets/trec/img/Licensing_Forms.png" />
+        </a>
+      </div>          
+    </div>
+    <div class="row">
+      <div class="col col-xs-6">
+        <a href="agency-information/contracts">
+          <img alt="Contracts Icon" src="/assets/trec/img/Contracts.png" />
+        </a>
+      </div>
+      <div class="col col-xs-6">
+        <a href="/public/consumer-forms">
+          <img alt="Consumer Forms Icon" src="/assets/trec/img/Consumer.png" />
+        </a>
+      </div>          
+    </div>
+
+  
+  </div><!--end panel body-->
+ 
+</div><!--end panel-->
+</div><!-- end col-->
+
+</section>
+
+<!-- END OUTPUT from 'sites/all/themes/bootstrap/templates/block/block.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('block') -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--views--bd2d539a40596ee570a553bb519bdf7b.tpl.php
+   * block--views.tpl.php
+   * block--content.tpl.php
+   x block.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/bootstrap/templates/block/block.tpl.php' -->
+<section id="block-views-bd2d539a40596ee570a553bb519bdf7b" class="block block-views clearfix">
+
+      
+  
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view__special_links__block_popular_forms_links') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view--special-links--block-popular-forms-links.tpl.php
+   * views-view--special-links.tpl.php
+   * views-view.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view--special-links--block-popular-forms-links.tpl.php' -->
+  <div id="Popular-Forms" style="display:none">
+          
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_unformatted__special_links') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-unformatted--special-links.tpl.php
+   * views-view-unformatted.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view-unformatted--special-links.tpl.php' -->
+        <div class="list-group triangle-bullets">
+          
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+  
+  <div>        <a href="/forms/information-about-brokerage-services" class="list-group-item">Information About Brokerage Services</a>  </div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+  
+  <div>        <a href="/forms/notice-buyers-termination-contract-0%20" class="list-group-item">Notice of Buyer&#039;s Termination of Contract</a>  </div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+  
+  <div>        <a href="/forms/one-four-family-residential-contract-resale-0" class="list-group-item">One to Four Family Residential Contract</a>  </div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+  
+  <div>        <a href="/forms/amendment-contract" class="list-group-item">Contract Amendment</a>  </div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+  
+  <div>        <a href="/forms/third-party-financing-addendum" class="list-group-item">Third Party Financing Addendum</a>  </div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+
+        </div>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view-unformatted--special-links.tpl.php' -->
+
+    
+      <div class="view-footer text-right">
+      <a id="btnClosePopularForms" href="#" class="btn btn-link"><span class="glyphicon glyphicon-arrow-left"></span>Close</a>
+    </div>
+  
+</div><!--end panel-body-->
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view--special-links--block-popular-forms-links.tpl.php' -->
+
+
+</section>
+
+<!-- END OUTPUT from 'sites/all/themes/bootstrap/templates/block/block.tpl.php' -->
+
+  </div>
+
+<!-- END OUTPUT from 'modules/system/region.tpl.php' -->
+
+                                    </div>
+                <div class="row">
+                    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('region') -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--content-bottom.tpl.php
+   x region.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'modules/system/region.tpl.php' -->
+  <div class="region region-content-bottom">
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x block--views--special-links-block-1.tpl.php
+   * block--views.tpl.php
+   * block--content-bottom.tpl.php
+   * block.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/block--views--special-links-block-1.tpl.php' -->
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+<section id="block-views-special-links-block-1" class="block block-views">
+
+      
+  
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view__special_links__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view--special-links--block.tpl.php
+   * views-view--special-links.tpl.php
+   * views-view.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view--special-links--block.tpl.php' -->
+  <div class="panel panel-unboxed">
+      <div class="panel-heading">
+          <h3 class="panel-title">
+            Consumer Information            <a href="#" title="Toggle Visibility" class="glyphicon collapsed panel-toggle" data-toggle="collapse" data-target="#Consumer-Information"></a>
+          </h3>
+      </div>
+  <div id="Consumer-Information" class="panel-body panel-collapse collapse no-zero-height expand-for-print">
+            <p>Find out all you need to know about the Real Estate Industry.</p>
+          
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_unformatted__special_links') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-unformatted--special-links.tpl.php
+   * views-view-unformatted.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view-unformatted--special-links.tpl.php' -->
+        <div class="list-group triangle-bullets">
+          
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+  
+  <div>        <a href="/public/consumer-information" class="list-group-item">Buying and Selling a Home In Texas</a>  </div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+  
+  <div>        <a href="/public/frequently-asked-questions" class="list-group-item">Frequently Asked Questions</a>  </div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+  
+  <div>        <a href="https://www.hoa.texas.gov" class="list-group-item">HOA Information and Search Tool</a>  </div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+  
+  <div>        <a href="/public/request-public-information" class="list-group-item">Request Public Information</a>  </div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+  
+  <div>        <a href="https://www.trec.texas.gov/trec-benefits-veterans" class="list-group-item">TREC Benefits for Veterans</a>  </div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+
+        </div>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view-unformatted--special-links.tpl.php' -->
+
+    
+      <div class="view-footer text-right">
+      <a href="/article/buying-and-selling-home-texas" class="btn btn-more"> <span>More Consumer Information</span> </a>
+    </div>
+  
+</div><!--end panel-body-->
+</div><!--end panel-->
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view--special-links--block.tpl.php' -->
+
+
+</section>
+</div>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/block--views--special-links-block-1.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x block--views--special-links-block-2.tpl.php
+   * block--views.tpl.php
+   * block--content-bottom.tpl.php
+   * block.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/block--views--special-links-block-2.tpl.php' -->
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+<section id="block-views-special-links-block-2" class="block block-views">
+
+      
+  
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view__special_links__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view--special-links--block.tpl.php
+   * views-view--special-links.tpl.php
+   * views-view.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view--special-links--block.tpl.php' -->
+  <div class="panel panel-unboxed">
+      <div class="panel-heading">
+          <h3 class="panel-title">
+            Licensing Information            <a href="#" title="Toggle Visibility" class="glyphicon collapsed panel-toggle" data-toggle="collapse" data-target="#Licensing-Information"></a>
+          </h3>
+      </div>
+  <div id="Licensing-Information" class="panel-body panel-collapse collapse no-zero-height expand-for-print">
+            <p>Quickly go to the places you visit most.</p>
+          
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_unformatted__special_links') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-unformatted--special-links.tpl.php
+   * views-view-unformatted.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-view-unformatted--special-links.tpl.php' -->
+        <div class="list-group triangle-bullets">
+          
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+  
+  <div>        <a href="https://www.trec.texas.gov/trec-processing-times" class="list-group-item">Processing Dates</a>  </div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+  
+  <div>        <a href="/become-licensed/sales-agent" class="list-group-item">Become a Licensed Sales Agent</a>  </div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+  
+  <div>        <a href="https://www.trec.texas.gov/fingerprint-requirements" class="list-group-item">Fingerprinting Requirements</a>  </div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+  
+  <div>        <a href="/renew-license/real-estate-sales-agent" class="list-group-item">Renew Your Sales Agent License</a>  </div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+  
+  <div>        <a href="/become-licensed/individual-real-estate-broker" class="list-group-item">Become a Broker</a>  </div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+  
+  <div>        <a href="/renew-license/real-estate-broker" class="list-group-item">Renew Your Broker License</a>  </div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view-fields.tpl.php' -->
+
+        </div>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view-unformatted--special-links.tpl.php' -->
+
+    
+  
+</div><!--end panel-body-->
+</div><!--end panel-->
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-view--special-links--block.tpl.php' -->
+
+
+</section>
+</div>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/block--views--special-links-block-2.tpl.php' -->
+
+  </div>
+
+<!-- END OUTPUT from 'modules/system/region.tpl.php' -->
+
+                </div>
+            </section><!--#main-content-->
+        </div><!-- row -->
+        <div class="row hidden-print">
+            <div class="col-sm-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="social-share">
+                    <div class="social-share-title">
+                        <h3>Share</h3>
+                    </div>
+                    <div class="social-share-buttons">
+                        <a id="facebook-share" href="https://www.facebook.com/sharer/sharer.php?u="
+                           title="Share on Facebook" class="site-glyphs glyph-facebook" target="_blank">&nbsp;</a>
+                        <a id="twitter-share" href="https://twitter.com/share" data-dnt="true" title="Share on Twitter"
+                           class="site-glyphs glyph-twitter" target="_blank">&nbsp;</a>
+                        <!--<a id="googleplus-share" href="https://plus.google.com/share?url=" title="Share on Google+"
+                           class="site-glyphs glyph-googleplus" target="_blank">&nbsp;</a>-->
+                    </div>
+                </div><!-- social-share -->
+            </div><!-- col-sm-12 -->
+        </div><!-- row -->
+    </div><!--.main-container/.content-->
+</section><!--#page-content-->
+<section id="page-footer" class="hidden-print">
+    <div class="container">
+         <div class="row scroll-row">
+          <div class="widget-scroll-container">
+           <div class="scroll-prompt"></div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+              <div class="panel panel-complaint-center" style="padding:0; border:none;">
+                <div class="panel-body" style="height: 17.5rem; background-image: url(/assets/trec/img/complaint-center-bg.png); background-repeat: no-repeat; background-size: cover;">
+                  <div class="complaint-center-container">
+                    <div class="complaint-center-content">
+                      <div class="complaint-center-content-right" style="margin:0"><p style="text-align: center; color:white;">
+                        If you feel there has been a violation of
+                        <a href="http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.1101.htm" style="color: white;text-decoration: underline;">
+                        The Real Estate License Act
+                        </a>, or <a href="/agency-information/rules-and-laws/trec-rules" style="color: white;text-decoration: underline;">TREC rules</a></p>
+                        <a href="/public/how-file-complaint" class="btn btn-light" style="box-shadow: 0px 12px 6px -4px rgb(0 0 0  / 100%);background-color: white;color: #005c83;margin-top: 1.2rem;">File a Complaint</a>
+                      </div><!--end complaint-center-content-right-->
+                    </div><!--end complaint-center-content-->
+                   </div><!--end complaint-center-container-->
+                  </div><!--panel-body-->
+                  <div class="panel-footer" style="display: flex;flex-direction: row;align-items: center;justify-content: space-between;">
+                    <img src="/assets/trec/img/icon/complaint_form.png" alt="Complaint form graphic" style="width: 4rem;height: auto; display: inline-block;" />
+                    <h4 style="text-align:center;display: inline-block;">Complaint<br>Center</h4>
+                    <a href="/public/frequently-asked-questions#a-How_are_Disputes_Handled%3F" style="text-align: center;font-size: 80%;text-decoration: underline;">
+                      <div class="question-mark-circle-solid" style="background: #003f5a;
+    height: 2.5rem;
+    width: 2.5rem;
+    line-height: 2.6rem;
+    color: white;
+    margin: 0rem auto .5rem auto;
+     font-size: 1.5em;
+    border-radius: 2rem;
+    padding: 0;">?<br>
+                      </div>
+                      Complaint<br>FAQ's</a>
+                  </div><!--end panel-footer-->
+                </div><!-- end panel-->
+
+
+  
+              </div><!--end col-xs-3-->
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+              
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('region') -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--footer.tpl.php
+   x region.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'modules/system/region.tpl.php' -->
+  <div class="region region-footer">
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('block') -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--views---exp-Search-Topic-feed-1.tpl.php
+   * block--views.tpl.php
+   * block--footer.tpl.php
+   x block.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/bootstrap/templates/block/block.tpl.php' -->
+<section id="block-views-exp-search-topic-feed-1" class="block block-views clearfix">
+
+      
+  <form action="/search-topic/feed" method="get" id="views-exposed-form-Search-Topic-feed-1" accept-charset="UTF-8"><div>
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_exposed_form__Search_Topic') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-exposed-form--Search-Topic.tpl.php
+   * views-exposed-form.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/trec/templates/views-exposed-form--Search-Topic.tpl.php' -->
+<div class="panel panel-topic-search">
+<div class="panel-body">
+<div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-title-wrapper" class="views-exposed-widget views-widget-filter-title">
+                  <label for="edit-title">
+<h4>
+            Search Topic</h4>
+          </label>
+                        <div class="views-widget">
+          <div class="form-item form-item-title form-type-textfield form-autocomplete form-group"><div class="input-group"><input class="views-ac-dependent-filter form-control form-text" type="text" id="edit-title" name="title" value="" size="30" maxlength="128" /><input class="autocomplete" disabled="disabled" id="edit-title-autocomplete" type="hidden" value="https://www.trec.texas.gov/index.php?q=autocomplete_filter/title/Search_Topic/feed_1/0" />
+<span class="input-group-addon"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span>
+</span></div></div>        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <button type="submit" id="edit-submit-search-topic" name="" value="Search" class="btn btn-primary form-submit">Search</button>
+    </div>
+      </div>
+</div>
+</div><!--end panel-body-->
+</div><!--end panel-->
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/views-exposed-form--Search-Topic.tpl.php' -->
+
+</div></form>
+</section>
+
+<!-- END OUTPUT from 'sites/all/themes/bootstrap/templates/block/block.tpl.php' -->
+
+  </div>
+
+<!-- END OUTPUT from 'modules/system/region.tpl.php' -->
+
+               <div class="footer-buttons-container">
+                <a href="/customer-satisfaction-survey" class="btn btn-primary footer-buttons"><img src="/assets/trec/img/customer-survey-icon.png" alt="customer survey icon" style="display: block;margin: auto;">Customer Survey</a>
+                <a href="/rules-and-laws" class="btn btn-primary footer-buttons"><img src="/assets/trec/img/gavel-icon.png" alt="gavel icon" style="display: block;margin: auto;">Rules and Laws</a>
+                <a href="/agency-information/contracts" class="btn btn-primary footer-buttons"><img src="/assets/trec/img/icon/handshake.png" alt="forms and contracts icon" style="display: block;margin: auto;">Contract Forms</a>
+                <a href="/public/frequently-asked-questions" class="btn btn-primary footer-buttons"><div class="question-mark-faq-button">?</div>FAQ's</a>
+              </div>
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                <div class="panel panel-contact">
+                    <div class="panel-heading" style="min-height:0;">
+                        <h4 class="panel-title" style="margin:0 !important;">Contact Us</h4>
+                    </div>
+                    <div class="panel-body">
+                        <address>
+                            <strong>EMAIL:</strong> <a href="mailto:information@trec.texas.gov">information@trec.texas.gov</a><br/>
+                            <strong>PHONE:</strong> 512.936.3000<br/>
+                            <!--<strong>FAX:</strong> 512.936.3001<br />-->
+                            <strong>MAIL:</strong> Texas Real Estate Commission<br/>
+                            P.O. Box 12188<br/>
+                            Austin, TX 78711-2188
+                        </address>
+                    </div>
+                    <div class="panel-footer clearfix" style="padding-bottom: 1rem;">
+                        <div style="display:flex; justify-content:space-between">
+                          <div style="display: flex; flex-direction: column; align-items: center;">
+                            <h4>Follow Us</h4>
+                            <div>
+                              <a href="https://www.facebook.com/TRECommission/" class="site-glyphs glyph-facebook" title="Follow Us On Facebook" target="_blank"></a>
+                              <a href="https://twitter.com/TRECommission" class="site-glyphs glyph-twitter" title="Follow Us On Twitter" target="_blank"></a>
+                            </div>
+                          </div>
+                          <div style="display: flex; flex-direction: column; align-items: center;">
+                            <h4>Find Us</h4>
+                            
+                              <a href="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Texas+Real+Estate+Commission+1700+N.+Congress&aq=&sll=30.279212,-97.743495&sspn=0.016622,0.041199&vpsrc=0&ie=UTF8&hq=Texas+Real+Estate+Commission+1700+N.+Congress&hnear=&radius=15000&ll=30.27923,-97.67395&spn=0.265947,0.528374&t=m&z=12&iwloc=A&cid=5081567027189861533"
+                               name="view-map" id="view-map"  target="_blank"><img src="/assets/trec/img/icon/map_marker.png" alt="map marker icon" style="width:2rem; height:2.6rem;" /></a>
+                            
+                          </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!--footer-contact-->
+          </div><!--widget-scroll-container-->
+        </div><!--.row-->
+        <div id="footer-state-links" class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+                    <h5>Site Links</h5>
+                    <ul class="triangle-bullets">
+                        <li><a href="/public/compact-with-texans">Compact With Texans</a></li>
+                        <li><a href="/website-policies">Website Policies</a></li>
+                        <li><a href="/public/open-records-policy">Public Information Requests</a></li>
+                        <li><a href="/public/high-value-data-sets">High Value Data Sets</a></li>
+                        <li><a href="/webforms/website-problem">Report A Website Problem</a></li>
+                    </ul>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+                    <h5>State of Texas Links</h5>
+                    <ul class="triangle-bullets">
+                        <li><a href="http://www.texas.gov/" target="_blank">Texas.gov</a></li>
+                        <li><a href="https://www.tsl.texas.gov/trail/index.html" target="_blank">Statewide Search</a></li>
+                        <li><a href="http://veterans.portal.texas.gov/" target="_blank">Veterans Portal</a></li>
+                        <li><a href="http://www.texashomelandsecurity.com/" target="_blank">Texas Homeland Security</a>
+                        </li>
+                        <li><a href="http://www.texastransparency.org/" target="_blank">Where the Money Goes</a></li>
+                        <li><a href="https://sao.fraud.texas.gov/ReportFraud" target="_blank">Report Fraud</a></li>
+                    </ul>
+                </div>
+            </div><!--#footer-sitemap-->
+        </div><!--#footer-sub .row-->
+    </div><!--.container -->
+</section>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/page.tpl.php' -->
+
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('region') -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--page-bottom.tpl.php
+   x region.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'modules/system/region.tpl.php' -->
+
+<!-- END OUTPUT from 'modules/system/region.tpl.php' -->
+
+<script src="https://www.trec.texas.gov/sites/all/themes/bootstrap/js/bootstrap.js?slgluz"></script>
+</div>
+    <script src="/apps/inc/vendor/jquery.cycle2.min.js"></script>
+</body>
+</html>
+
+<!-- END OUTPUT from 'sites/all/themes/trec/templates/html.tpl.php' -->
